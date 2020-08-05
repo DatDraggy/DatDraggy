@@ -5,6 +5,7 @@
 - 🌱 In my free time I play games and work on my own projects
 - 🥅 Working with hardware is something I'd like to do more often
 - ⚡ I'm also kind of learning how to play the guitar
+- 🏘 I enjoy playing around with smart home
 
 ### Connect with me:
 
