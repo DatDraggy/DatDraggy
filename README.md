@@ -1,16 +1,28 @@
-### Hi there 👋
+### Moin, I'm [Kieran aka DatDraggy][website] 👋
 
-<!--
-**DatDraggy/DatDraggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dragon, Gamer, Developer
+- 🔭 I work full time as a developer
+- 🌱 In my free time I play games and work on my own projects
+- 🥅 Working with hardware is something I'd like to do more often
+- ⚡ I'm also kind of learning how to play the guitar
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="kieran.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DatDraggy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="DatDraggy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DatDraggy | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="DatDraggy | Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][keybase]
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="DatDraggy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DatDraggy&show_icons=true&hide_border=true&theme=onedark&count_private=true" />
+
+[website]: https://kieran.de
+[twitter]: https://twitter.com/codeSTACKr
+[telegram]: https://t.me/DatDraggy
+[steam]: https://steamcommunity.com/id/YiffInHell
+[keybase]: https://keybase.io/DatDraggy
