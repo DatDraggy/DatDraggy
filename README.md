@@ -23,7 +23,7 @@
 <img align="left" alt="DatDraggy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DatDraggy&show_icons=true&hide_border=true&theme=onedark&count_private=true" />
 
 [website]: https://kieran.de
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/DatDraggy
 [telegram]: https://t.me/DatDraggy
 [steam]: https://steamcommunity.com/id/YiffInHell
 [keybase]: https://keybase.io/DatDraggy
