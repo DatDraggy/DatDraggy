@@ -1,9 +1,9 @@
 ### Moin, I'm [Kieran aka DatDraggy][website] 👋
 
 ## Dragon, Gamer, Developer
-- 🔭 I work full time as a developer
-- 🌱 In my free time I play games and work on my own projects
-- 🥅 Working with hardware is something I'd like to do more often
+- 💻 I work full time as a developer
+- 🕹️ In my free time I play games and work on my own projects
+- 🧰 Working with hardware is something I'd like to do more often
 - ⚡ I'm also kind of learning how to play the guitar
 - 🏘 I enjoy playing around with smart home
 
