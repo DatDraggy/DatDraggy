@@ -3,9 +3,9 @@
 ## Dragon, Gamer, Developer
 - 💻 I work full time as a developer
 - 🕹️ In my free time I play games and work on my own projects
-- 🧰 Working with hardware is something I'd like to do more often
-- ⚡ I'm also kind of learning how to play the guitar
-- 🏘 I enjoy playing around with smart home
+- 🧰 Tinkering with hardware is something I'd like to do more often
+- ⚡ I occasionally practice playing the guitar
+- 🏘 I enjoy playing around with smarthome
 
 ### Connect with me:
 
@@ -21,6 +21,7 @@
 ---
 
 <img align="left" alt="DatDraggy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DatDraggy&show_icons=true&hide_border=true&theme=onedark&count_private=true" />
+<img align="left" alt="DatDraggy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdraggy&theme=onedark&show_icons=true&hide_border=false&layout=compact" />
 
 [website]: https://kieran.de
 [twitter]: https://twitter.com/DatDraggy
